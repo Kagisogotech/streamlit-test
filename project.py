@@ -76,9 +76,35 @@ Activities:
 """
         },
         "Study Notes": {
-            "Easy": "- Photosynthesis helps plants make food using sunlight.\n- Plants need sunlight, water, and air.\n- They make oxygen and sugar.\n",
-            "Medium": "- Photosynthesis occurs mainly in leaves inside chloroplasts.\n- Chlorophyll captures sunlight energy.\n- Plants convert CO₂ and H₂O into glucose and oxygen.\n- Equation: 6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂.\n",
-            "Hard": "- Photosynthesis involves light-dependent reactions in thylakoid membranes producing ATP and NADPH.\n- Photosystem I and II absorb light at different wavelengths.\n- Calvin cycle fixes CO₂ into glucose in stroma.\n- Detailed chemical equations and energy transfer mechanisms.\n"
+            "Easy": """- Photosynthesis is how plants make food from sunlight.
+- Plants need sunlight, water, and air (carbon dioxide) to do photosynthesis.
+- Photosynthesis happens mostly in leaves.
+- It makes sugar for the plant to use as energy.
+- Oxygen is released into the air during photosynthesis.
+""",
+            "Medium": """- Photosynthesis happens in chloroplasts, found mostly in leaf cells.
+- Chlorophyll (green pigment) absorbs sunlight.
+- Sunlight energy is used to combine carbon dioxide (CO₂) from the air and water (H₂O) from the soil to make glucose (C₆H₁₂O₆).
+- Oxygen (O₂) is released into the atmosphere as a by-product.
+- Word equation: Carbon dioxide + Water + Sunlight → Glucose + Oxygen
+- Chemical equation: 6CO₂ + 6H₂O + Sunlight → C₆H₁₂O₆ + 6O₂
+- Photosynthesis has two main stages:
+  1. Light-dependent reactions – happen in the thylakoid membranes, converting sunlight to ATP and NADPH.
+  2. Light-independent reactions (Calvin Cycle) – happen in the stroma, making glucose.
+""",
+            "Hard": """- Photosynthesis is an endothermic process — it needs energy from sunlight.
+- It involves two photosystems:
+  - Photosystem II (PSII) – absorbs light, splits water into oxygen, protons, and electrons.
+  - Photosystem I (PSI) – absorbs light to energise electrons for NADPH production.
+- Light-dependent reactions produce ATP (energy) and NADPH (electron carrier).
+- The Calvin Cycle uses ATP and NADPH to fix CO₂ into glucose through enzyme-controlled steps, including RuBisCO.
+- The rate of photosynthesis is affected by:
+  - Light intensity
+  - Carbon dioxide concentration
+  - Temperature
+- Different plants use different pathways: C3, C4, and CAM photosynthesis, adapted for their environments.
+- Photosynthesis is essential for the global carbon and oxygen cycles and is the base of most food chains.
+"""
         },
         "Glossary Terms": {
             "Easy": """1. Photosynthesis: How plants make food using sunlight.
