@@ -1,8 +1,8 @@
 import streamlit as st
 import re
 
-st.title("📘 Photosynthesis Content Generator")
-st.subheader("Grade 7 Educational Materials")
+st.title("Grade 7 Educational Materials📘")
+st.subheader("📚Photosynthesis Content Generator")
 
 content_type = st.sidebar.radio(
     "Select Content Type",
